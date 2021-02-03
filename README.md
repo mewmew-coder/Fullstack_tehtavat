@@ -1,3 +1,3 @@
 # Fullstack_tehtavat
 
-Tänne tulee kaikki Fullstack kurssin tehtävät
+Tänne tulee kaikki tehdyt Fullstackopen.com kurssin tehtävät
